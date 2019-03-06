@@ -22,3 +22,7 @@ function myfunction5(url){
     var url ="https://github.com/parthkinariwalask95/mongo-hw"
     window.location=url;
 }
+function myfunction6(url){
+    var url ="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=parthkinariwalask95@gmail.com&su=Portfolio%20Conatct&shva=1"
+    window.location=url;
+}
